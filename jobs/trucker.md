@@ -33,13 +33,13 @@ Odată ajuns la locația NPC-ului Trucker, interacționează cu el folosind buto
 
 ## Tipuri de curse
 
-Există două tipuri de curse, cruse legale, unde câștigul este normal, si curse ilegale, unde câștigul este cu _**10%**_ mai mare decat câștigul curselor legale.
+Există două tipuri de curse, cruse legale, unde câștigul este normal, și curse ilegale, unde câștigul este cu _**10%**_ mai mare decat câștigul curselor legale.
 
 Cursele ilegale sunt disponibile de la skill "**Silver**".
 
-Cursele ilegale iti oferă sansa de a găsi **obiecte speciale pentru crafting**.
+Cursele ilegale îți oferă șansa de a găsi **obiecte speciale pentru crafting**.
 
-La cursele ilegale exista o sansa de _**5%**_ de a primi wanted.
+La cursele ilegale există o șansă de _**5%**_ de a primi wanted.
 
 
 ### Ce rută să aleg?  
