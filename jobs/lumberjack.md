@@ -26,7 +26,7 @@ Odată ajuns la locația NPC-ului Lumberjack, interacționează cu el folosind b
 :::  
 
 ::: details Vehicul oferit de NPC  
-  Wastelander | Top speed: 150 km/h | Tractiune: integrală | Viteze: 5 | Manevrabilitate: mare (poți urca orice unghi vertical)  
+  Wastelander | Top speed: 150 km/h | Tracțiune: integrală | Viteze: 5 | Manevrabilitate: mare (poți urca orice unghi vertical)  
   <Image src="https://i.imgur.com/RYRK5pj.png" alt="Wastelander" />
 ::: 
  
