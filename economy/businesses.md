@@ -15,7 +15,7 @@ Aceste *afaceri* sunt prezente pe toată harta în număr mare, așadar sunt mai
 Odată ajunși la business, o să fiți nevoiți fie să interacționați cu vânzătorul sau vânzătoarea, fie să vă poziționați pe checkpoint-ul mov și să apăsați tasta `E`.
 
 ::: tip
-Fiecare business din aceeași categorie, spre exemplu un Clothing Store din centrul orașului și unul de la periferie, are aceleași prețuri! Nu diferă nimic între ele, în afară de locație.
+Fiecare business din aceeași categorie, spre exemplu un Clothing Store din centrul orașului și unul de la periferie, au aceleași prețuri! Nu diferă nimic între ele, în afară de locație.
 :::
 
 ## Ce sunt fiecare și ce pot face la acestea?
@@ -88,7 +88,7 @@ Frizurile nu oferă niciun avantaj! Sunt doar estetice.
 :::
 
 ### **Car Wash** <Image src="https://i.imgur.com/w3ePWZY.png" alt="cwh" />
-Este o afacere destinată spălării unei mașini murdare, după o zi de lucru doar cu aceasta. Desigur, acest business presupune si o taxă de <Dinero :amount='50' />/60 secunde. Există 14 astfel de locații.
+Este o afacere destinată spălării unei mașini murdare, după o zi de lucru doar cu aceasta. Desigur, acest business presupune și o taxă de <Dinero :amount='50' />/60 secunde. Există 14 astfel de locații.
 
 ::: details Car wash
 <Image src="http://i.imgur.com/tE1hAJG.gif" alt="cw2" />
