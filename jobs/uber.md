@@ -14,7 +14,7 @@ title: Uber
 
 ## Desfășurarea jobului 
 
-În orașul Los Santos există o dinamică în continuă creștere. Ca și jucător angajat in cadrul Uber, ai datoria de a transporta oamenii în destinațiile dorite cât mai rapid, cât mai sigur și cat mai eficient.
+În orașul Los Santos există o dinamică în continuă creștere. Ca și jucător angajat in cadrul Uber, ai datoria de a transporta oamenii în destinațiile dorite cât mai rapid, cât mai sigur și cât mai eficient.
 
 ## Întrebări frecvente
 
@@ -58,7 +58,7 @@ Jucătorii cu skill GOLD în cadrul job-ului vor putea să aleagă din 2 comenzi
   <Image src="https://i.imgur.com/M42BZsw.gif" alt="Preluarea clientului" />  
 ::: 
 
-În momentul în care clientul îți urca în masina, in partea dreaptă de sus a imaginii, îți va fi afișat un timp exprimat în secunde/minute (acesta este influențat de distanța pe care trebuie să o parcurgi până la destinație), acest timer exprimând un bonus monetar ce îți va fi înmânat la final de cursă, cu condiția de a nu îl depăsi.
+În momentul în care clientul îți urcă în mașină, în partea dreaptă de sus a imaginii, îți va fi afișat un timp exprimat în secunde/minute (acesta este influențat de distanța pe care trebuie să o parcurgi până la destinație), acest timer exprimând un bonus monetar ce îți va fi înmânat la final de cursă, cu condiția de a nu îl depăși.
 
 ::: details Bonus
   <Image src="https://i.imgur.com/LSQho9D.png" alt="Bonus" />  
@@ -67,7 +67,7 @@ Jucătorii cu skill GOLD în cadrul job-ului vor putea să aleagă din 2 comenzi
 Atunci când pasagerul va ajunge la destinație, acesta se va da jos din vehicul și îți va achita cursa.
 
 ::: danger Atenție! 
- Suma de bani primită la finalul cursei poate diferi față de ceea ce era arătat prin aplicație pentru că i se aplică și alte bonusuri cumulative (ex: World Exploration, joint, clan perk, skill, Liberty Boost).
+ Suma de bani primită la finalul cursei poate diferi față de ceea ce era arătată prin aplicație pentru că i se aplică și alte bonusuri cumulative (ex: World Exploration, joint, clan perk, skill, Liberty Boost).
 :::
 
 ::: details Obținerea bonusului
@@ -97,7 +97,7 @@ La fiecare <Dinero :amount='300' /> munciți în cadrul job-ului există șansa 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
-| <Image src="https://i.imgur.com/R1ERRuW.png" alt="Hood (M)/(F)" width="48" label="Hood (M)/(F)" /> | **Nu** | **20%, vezi deasupra tabelului** | Folosita de membrii 'LSPD' pentru a putea face actiuni ilegale |
+| <Image src="https://i.imgur.com/R1ERRuW.png" alt="Hood (M)/(F)" width="48" label="Hood (M)/(F)" /> | **Nu** | **20%, vezi deasupra tabelului** | Folosită de membrii 'LSPD' pentru a putea face acțiuni ilegale |
 
 ## Cazuri în care nu poți efectua job-ul
 ### Înafara zonei de job.
